@@ -10,6 +10,8 @@ dependencies = [
     "langchain>=1.0.0",
     "langchain-ollama>=0.3.10",
     "langchain-tavily>=0.2.11",
+    "pydantic>=2.13.3",
     "python-dotenv>=1.2.1",
     "tavily-python>=0.7.23",
+    "typing>=3.10.0.0",
 ]
